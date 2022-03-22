@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **[Freelancer]()**
+- 🔭 I’m currently working as a **Freelancer**
 
 - 🌱 I’m currently learning **Next.js.**
 
