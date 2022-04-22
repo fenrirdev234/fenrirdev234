@@ -68,3 +68,4 @@
 <a href = "https://www.instagram.com/coffeeciro/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z6BQAB9)
