@@ -64,16 +64,12 @@ width="36" height="36 alt="Vue"/></a>
 ## 📊 My Github Stats
 
   <br/>
-    <img alt="Ciro Sira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fenrirdev234&show_icons=true&theme=radical" />
   <img alt="Ciro Sira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenrirdev234&show_icons=true&theme=radical" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists.
 
 <br/>
 <br/>
-
-<img alt="Ciro Sira's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fenrirdev234&theme=redical" /></a>
-
 <br/>
 <br/>
 
