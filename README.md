@@ -69,8 +69,8 @@ GraphQL
 </ul>
 
 ## Connect with me:
-<p align="left">
+
 <a href="https://www.linkedin.com/in/ciro-sira-coffee-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a> <a href="https://coffeeciro.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" />
-</p>
+</a> 
+
 <a href = "https://ko-fi.com/Z8Z6BQAB9"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
