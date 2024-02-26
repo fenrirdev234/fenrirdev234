@@ -19,24 +19,54 @@
 
 - ⚡ Fun fact **Outside of the office, you can find me mentoring other developers who are just starting out, experimenting with interfaces, working out, or reading a good book (always looking for recommendations).**
 
-### Front end:
-✔️ Html / CSS3 / Javascript / Typescript
-✔️ React  / Next.js / Remix / Preact
-✔️ Vue / Nuxt 
-✔️ Astro / Stelve / StelveKit 
-✔️ React Native / Ionic
-✔️ CSS preprocessors (Sass, Less)/ PostCSS
-✔️ Bootstrap / Tailwind / Chakra UI / Vuetify / Material UI
-✔️ Redux / Jotai / Recoil / Zustand / Vuex / Pinia
+### Skill:
+#### Front end:
+<ul>
+<li>  
+Html / CSS3 / Javascript / Typescript
+</li> 
+<li>  
+React  / Next.js / Remix / Preact
+</li>
+<li>  
+Vue / Nuxt 
+</li>
+<li>  
+Astro / Stelve / StelveKit 
+</li>
+<li>  
+React Native / Ionic
+</li>
+<li>  
+CSS preprocessors (Sass, Less) / PostCSS
+</li>
+<li>  
+Bootstrap / Tailwind / Chakra UI / Vuetify / Material UI
+</li>
+<li>  
+Redux / Jotai / Recoil / Zustand / Vuex / Pinia
+</li>
+</ul>
 
 #### Testing:
-✔️ Jest / Cypress / Testing Library / Playwright / Vitest / Storybook 
+<ul>
+  <li>
+    Manual testing / Automation Testing / Integration Testing / End 2 End Testing / Visual Testing / UI Testing
+  </li>
+<li>  
+Jest / Cypress / Testing Library / Playwright / Vitest / Storybook / Chromatic
+</li>
+</ul>
 
 #### Back end:
-✔️ Node.js / Express.js
-✔️ GraphQL
-<br/>
-<br/>
+<ul>
+<li>  
+Node.js / Express.js
+</li>
+<li>  
+GraphQL
+</li>
+</ul>
 
 ## Connect with me:
 <p align="left">
