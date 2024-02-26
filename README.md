@@ -57,16 +57,7 @@ width="36" height="36 alt="Vue"/></a>
 </p>        
 
 
-<p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ciro Sira's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fenrirdev234&theme=radical"/>
-</p>
 
-## 📊 My Github Stats
-
-  <br/>
-  <img alt="Ciro Sira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenrirdev234&show_icons=true&theme=radical" />
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists.
 
 <br/>
 <br/>
@@ -76,7 +67,7 @@ width="36" height="36 alt="Vue"/></a>
 ## Connect with me:
 <p align="left">
 
-<a href="https://www.github.com/fenrirdev234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/coffeeciro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ciro-sira-coffee-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://coffeeciro.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CoffeeCirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+ <a href="http://www.instagram.com/coffeeciro" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ciro-sira-coffee-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://coffeeciro.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CoffeeCirodev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 </p>
 <a href = "https://ko-fi.com/Z8Z6BQAB9"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
