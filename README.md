@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Python, Django & Go**
+- 🌱I’m learning **Python, Django & Go** at the moment.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
