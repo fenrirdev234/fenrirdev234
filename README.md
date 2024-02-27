@@ -4,20 +4,21 @@
 <h2>Frontend Developer (React, Vue, Typescript, Astro, Svelte, Next & Nuxt) & Backend Developer (Node, Express)</h2>
 <h3 align="center">I'm a passionate Web Developer.</h3>
 
-
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a **Freelancer**
+I'm currently on the look out for a role in web development, ideally **Frontend developer**(with **React** or **Vue**)  or **Full stack developer**. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+
+- 🌎 I am interested in **remote job** or **relocation**, the time zone does not represent any problem for me.
 
 - 🌱I’m learning **Python, Django & Go** at the moment.
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://coffeeciro.vercel.app)**
 
 - 📫 How to reach me **ciroalejandro1@gmail.com**
 
 - ⚡ Fun fact **Outside of the office, you can find me mentoring other developers who are just starting out, experimenting with interfaces, working out, or reading a good book (always looking for recommendations).**
+  
+[comment]: <> (- 👯 I’m looking to collaborate on **OpenSource Projects**)
 
 ### Skill:
 #### Front end:
