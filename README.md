@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.ibb.co/gmhJY3Y/Blue-and-White-Architect-Linked-In-Banner.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ciro</h1>
 <h2>Frontend Developer (React, Vue, Typescript, Astro, Svelte, Next & Nuxt) & Backend Developer (Node, Express)</h2>
 <h3 align="center">I'm a passionate Web Developer.</h3>
