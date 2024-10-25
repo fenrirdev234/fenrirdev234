@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm currently on the look out for a role in web development, ideally **Frontend developer**(with **React** or **Vue**)  or **Full stack developer**. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+I'm currently on the look out for a role in web development, ideally **Frontend developer**(with **React** or **Vue**)  or **Full stack developer(with **Express** or **Django**)**. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 
 - 🌎 I am interested in **remote job** or **relocation**, the time zone does not represent any problem for me.
 
@@ -22,36 +22,36 @@ I'm currently on the look out for a role in web development, ideally **Frontend 
 #### Front end:
 <ul>
 <li>  
-Html / CSS3 / Javascript / Typescript
+ Html / Javascript / Typescript
 </li> 
 <li>  
-React  / Next.js / Remix / Preact
-</li>
-<li>  
-Vue / Nuxt 
-</li>
-<li>  
-Astro / Stelve / StelveKit 
-</li>
-<li>  
-React Native / Ionic
-</li>
-<li>  
-CSS preprocessors (Sass, Less) / PostCSS
-</li>
-<li>  
-Bootstrap / Tailwind / Chakra UI / Vuetify / Material UI
+React / React Native / Next.js / Remix / Preact
 </li>
 <li>  
 Redux / Jotai / Recoil / Zustand / Vuex / Pinia
+</li>
+<li>  
+Vue.js / Nuxt / Vuetify
+</li>
+<li>  
+ Astro / Svelte / SvelteKit / Ionic
+</li>
+<li>  
+CSS3 / CSS preprocessors (Sass, Less)/ PostCSS
+</li>
+<li>  
+ Bootstrap / Tailwind CSS / Ant Design / Material UI / Materialize / Semantic UI / Chakra UI
+</li>
+<li>  
+ Framer motion / Three.js
 </li>
 </ul>
 
 #### Testing:
 <ul>
-  <li>
-    Manual testing / Automation Testing / Integration Testing / End 2 End Testing / Visual Testing / UI Testing
-  </li>
+<li>
+Manual testing / Automation Testing / Integration Testing / End 2 End Testing / Visual Testing / UI Testing
+</li>
 <li>  
 Jest / Cypress / Testing Library / Playwright / Vitest / Storybook / Chromatic
 </li>
@@ -60,7 +60,10 @@ Jest / Cypress / Testing Library / Playwright / Vitest / Storybook / Chromatic
 #### Back end:
 <ul>
 <li>  
-Node.js / Express.js
+Node.js / Express.js / Python / Django 
+</li>
+<li>  
+PostgreSQL / MySQL / SQLite / mongoDB / Mongoose
 </li>
 <li>  
 GraphQL
