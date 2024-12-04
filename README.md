@@ -70,9 +70,6 @@ GraphQL
 </li>
 </ul>
 
-## Connect with me:
-
-<a href="https://www.linkedin.com/in/ciro-sira-coffee-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a> 
-
+<!---
 <a href = "https://ko-fi.com/Z8Z6BQAB9"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
+-->
